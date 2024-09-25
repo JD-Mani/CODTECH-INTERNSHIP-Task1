@@ -1,8 +1,8 @@
 **Name:** MANIKANDAN.R <br />
 **Company:** CODTECH IT SOLUTIONS <br />
-**ID:** <br />
+**ID:** CT08DS7780 <br />
 **Domain:** Frontend Development <br />
-**Duration:** <br />
+**Duration:** August 30th, 2024 to September 30th, 2024 <br />
 
 ## Overview of the project
 
