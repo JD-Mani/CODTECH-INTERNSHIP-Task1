@@ -17,4 +17,4 @@ In this task  I am gonna showing to you how to code a weather app with javascrip
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](Screenshot.jpg)
+![screenshot](screenshot.jpg)
